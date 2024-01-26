@@ -10,5 +10,5 @@
 
 ## Laboratories
 
-1. [Introduction to Numpy, Sklearn](slides/L01-AI4DEV_numpy_sklearn.pdf)([Notebook1](notebooks/AI4Dev_01_intro_numpy.ipynb), [Notebook2](notebooks/AI4Dev_02_data_visualization_learning.ipynb), [Notebook3](notebooks/AI4Dev_03_ml_pipeline.ipynb))
-2. [Introduction to PyTorch](slides/L02-AI4Dev-PyTorch.pdf)([Notebook4](notebooks/AI4Dev_04_dnns.ipynb), [Notebook 5](notebooks/AI4Dev_05_dnns_mnist.ipynb), [Notebook6](notebooks/AI4Dev_06_convnets.ipynb))
+1. [Introduction to Numpy, Sklearn](slides/L01-AI4DEV_numpy_sklearn.pdf) ([Notebook1](notebooks/AI4Dev_01_intro_numpy.ipynb), [Notebook2](notebooks/AI4Dev_02_data_visualization_learning.ipynb), [Notebook3](notebooks/AI4Dev_03_ml_pipeline.ipynb))
+2. [Introduction to PyTorch](slides/L02-AI4Dev-PyTorch.pdf) ([Notebook4](notebooks/AI4Dev_04_dnns.ipynb), [Notebook 5](notebooks/AI4Dev_05_dnns_mnist.ipynb), [Notebook6](notebooks/AI4Dev_06_convnets.ipynb))
